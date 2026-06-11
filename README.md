@@ -1,4 +1,4 @@
-# 📝 Perenisation Terra
+# 📝 Pérennisation Terra
 
 Site vitrine pour l'atelier Terra.
 
